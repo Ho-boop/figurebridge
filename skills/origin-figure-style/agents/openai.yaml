@@ -1,0 +1,4 @@
+interface:
+  display_name: "Origin 科研图格式"
+  short_description: "统一 Origin 科研图的 Arial 字体、字号、线宽与配色，并导出 EMF"
+  default_prompt: "使用 $origin-figure-style 统一这些 Origin 图的格式，并导出 EMF 与可编辑工程。"

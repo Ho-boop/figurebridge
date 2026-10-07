@@ -1,0 +1,4 @@
+interface:
+  display_name: "竞赛画图"
+  short_description: "从可复核原始数据制作竞赛论文图表，统一图型、字体、配色与图例并逐张检查"
+  default_prompt: "Use $competition-figures to create or refine my competition figures from the supplied data."

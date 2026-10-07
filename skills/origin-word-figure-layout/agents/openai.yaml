@@ -1,0 +1,4 @@
+interface:
+  display_name: "Origin Word 紧凑组图"
+  short_description: "先检查字体图例一致性，再在 Word 中紧凑排列 Origin 子图"
+  default_prompt: "使用 $origin-word-figure-layout 先检查这个 Origin 导出图文件夹的字体、图例和线宽一致性，再按论文样板紧凑组图到 Word。"
